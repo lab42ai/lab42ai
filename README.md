@@ -1,16 +1,17 @@
-## Hi there 👋
+# Lab42AI
 
-<!--
-**lab42ai/lab42ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI security research & engineering. We break AI to make it safer.
 
-Here are some ideas to get you started:
+**What we do:**
+- AI system security testing and red-teaming
+- AI system vulnerability research
+- Open-source tooling for AI security
+- Tools and platforms for AI security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What we're building:**
+- [ARX-17 Phantom](https://arx17phantom.com) — dedicated hardware for running autonomous AI agents locally
+- [Zeroshot](https://0eroshot.com) — automated testing framework for LLM-powered systems
+
+**Read our writings:** [Substack](https://lab42ai.substack.com)
+
+Louisville, KY · support@arx17phantom.com
