@@ -9,7 +9,7 @@ AI security research & engineering. We break AI to make it safer.
 - Tools and platforms for AI security
 
 **What we're building:**
-- [ARX-17 Phantom](https://arx17phantom.com) — dedicated hardware for running autonomous AI agents locally
+- [Minion](https://github.com/lab42ai/minion) — a security-first autonomous AI agent
 - [Zeroshot](https://0eroshot.com) — automated testing framework for LLM-powered systems
 
 **Read our writings:** [Substack](https://lab42ai.substack.com)
